@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Hi 👋, I'm Jayesh Badgujar
 🌱 I’m currently learning Next.js, DevOps, AI Agents<br><br>💬 Ask me about React, AI Integrations ,JavaScript ,DevOps <br><br>📫 Reach me At badgujarjayesh491@gmail.com
 
 
